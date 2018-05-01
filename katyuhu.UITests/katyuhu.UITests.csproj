@@ -36,7 +36,7 @@
   <ItemGroup>
     <ProjectReference Include="..\katyuhu\katyuhu.csproj">
       <Project>{EEE729EC-29C2-4B64-AA9E-9EF26AF94788}</Project>
-      <Name>katyuhu</Name>
+      <Name>katyuhu.Droid</Name>
       <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
       <Private>False</Private>
     </ProjectReference>

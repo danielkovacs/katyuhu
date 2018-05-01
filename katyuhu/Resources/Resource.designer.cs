@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("katyuhu.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("katyuhu.Droid.Resource", IsApplication=true)]
 
-namespace katyuhu
+namespace katyuhu.Droid
 {
 	
 	
