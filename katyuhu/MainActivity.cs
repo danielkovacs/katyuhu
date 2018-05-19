@@ -5,7 +5,7 @@ using katyuhu.Base;
 
 namespace katyuhu.Droid
 {
-    [Activity(Label = "katyuhu", MainLauncher = true, Icon = "@mipmap/icon")]
+    //[Activity(Label = "katyuhu", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
         int count = 1;

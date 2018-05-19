@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">Hello World, Click Me!</string>
     <string name="app_name">katyuhu</string>
+    <string name="create"></string>
+    <string name="comment"></string>
 </resources>
